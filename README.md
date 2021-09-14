@@ -6,9 +6,15 @@ In this case the desired information is the address for the AA meetings. The add
 The main goal of the excercise/assignemnt is to learn heavy data parsing and using cheerio and other javascript language functions.
 
 Method
+
 -install cheerio and create two variables: fs, and cheerio.
+
 -load the addresses file into a variable, `content`, and then load that variable into a cheerio object named $
+
 -Create a variable named streetAddress that contain the lines of text (the addresses themselves)
+
 -Create a function that parses through the data and fetches only the street addresses. 
+
   -Do some trimming if necessary
+  
 -Export the result to a text file and save it in the directory
