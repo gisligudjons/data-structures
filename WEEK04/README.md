@@ -8,5 +8,5 @@ Using Excel, populate a dummy table(s) with ALL the data from the first three ro
 
 **DATA HIERARCHY**
 
-![GitHub Logo](/WEEK04/IMG_0751.png)
-Format: ![Alt Text](url)
+![image](https://user-images.githubusercontent.com/73747671/135167365-caa6d65f-91b2-42e9-b303-4624f1141a33.png)
+
