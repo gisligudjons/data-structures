@@ -10,3 +10,9 @@ Using Excel, populate a dummy table(s) with ALL the data from the first three ro
 
 ![image](https://user-images.githubusercontent.com/73747671/135167365-caa6d65f-91b2-42e9-b303-4624f1141a33.png)
 
+On the picture are explanatory sentences. In addition to those: the inspiration to this simple design is Aribnb. Either you are "sorted" by your specific GEO-location, or you search your desired location. After that more specific info is displayed or required. 
+
+Following the README is a Excel file wich is a dummy table with multiple tabs. Along with the picture the connection should be clear.
+
+All the best.
+Gisli
