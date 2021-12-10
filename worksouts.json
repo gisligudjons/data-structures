@@ -10,28 +10,4 @@
     }
  }
 
-{
-    "12/13/2021": {
-        "type":"Test 1",
-        "title": "National Conference",
-        "venue":"Hyatt Regency Hotel",
-        "location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "desc": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.google.com"
-    }
- }
-
-
-{
-    "13/12/2021": {
-        "type":"Test 2",
-        "title": "National Conference",
-        "venue":"Hyatt Regency Hotel",
-        "location": "Calgary Alberta , Canada",
-        "time": "10:00 AM",
-        "desc": "Lorem ipsum dolor sit amet...",
-        "more": "http://www.google.com"
-    }
- }
 
