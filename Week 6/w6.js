@@ -6,7 +6,7 @@ var db_credentials = new Object();
 db_credentials.user = 'gisli';
 db_credentials.host = 'datastructures.ccqj3djz0ass.us-east-1.rds.amazonaws.com';
 db_credentials.database = 'AA';
-db_credentials.password = 'Efstasund87!';
+db_credentials.password = '';
 db_credentials.port = 5432;
 
 // Connect to the AWS RDS Postgres database
